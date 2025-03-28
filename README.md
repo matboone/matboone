@@ -9,7 +9,7 @@ I'm a 2nd year Computer Science student at Augusta University with a goal of get
   - Python stock trading and backtesting bot
   - Various board games with a practice vs. AI implementation
 
-##Goals for 2025
+## Goals for 2025
 - Complete the Odin Project with full documentation of all projects completed throughout (Progress: Javascript 48%)
 - Attend Hackathons:
   - ImmerseGT 2025
