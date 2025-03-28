@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**matboone/matboone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd year Computer Science student at Augusta University with a goal of getting into full-stack development.
 
-Here are some ideas to get you started:
+## Currently working on...
+- Mastering JavaScript, HTML, CSS and Ruby through the Odin Project
+- School coursework, at the moment being Data Structures and Computer Organization
+- At-home projects:
+  - Python stock trading and backtesting bot
+  - Various board games with a practice vs. AI implementation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Goals for 2025
+- Complete the Odin Project with full documentation of all projects completed throughout (Progress: Javascript 48%)
+- - Attending Hackathons:
+  - ImmerseGT 2025
+  - HackGT 12
+- Land a summer internship and/or fall co-op
+
+[Connect with me on GitHub](https://github.com/matboone)
