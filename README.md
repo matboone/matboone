@@ -1,18 +1,37 @@
-## Hi there 👋
+# Matthew Boone
 
-I'm a 2nd year Computer Science student at Augusta University with a goal of getting into full-stack development.
+I am a Full-Stack Engineer with a passion for AI-powered applications and test-first development. Currently completing a Bachelor of Science in Computer Science at Augusta University, I build end-to-end solutions using modern JavaScript frameworks and Python.
 
-## Currently working on...
-- Mastering JavaScript, HTML, CSS and Ruby through the Odin Project
-- School coursework, at the moment being Data Structures and Computer Organization
-- At-home projects:
-  - Python stock trading and backtesting bot
-  - Various board games with a practice vs. AI implementation
+## Skills
 
-## Goals for 2025
-- Complete the Odin Project with full documentation of all projects completed throughout (Progress: Javascript 48%)
-- Attend Hackathons:
-  - ImmerseGT 2025
-  - HackGT 12
+- **Front-end:** React · Next.js · Tailwind CSS  
+- **Back-end:** Node.js · Express · NestJS · REST · GraphQL  
+- **Data & Databases:** PostgreSQL · MongoDB · pandas  
+- **Testing & CI/CD:** Jest · Cypress · pytest · GitHub Actions  
+- **DevOps & Deployment:** Docker · Fly.io · Render · Git  
+- **Languages:** JavaScript/TypeScript · Python · C# · Bash
 
-[Connect with me on GitHub](https://github.com/matboone)
+## Featured Projects
+
+### Trade-Bot  
+A Python back-tester for MACD and Bollinger Bands strategies orchestrated by a Node.js wrapper.  
+- Accepts command-line flags (`--symbol`, `--interval`, `--days`)  
+- Credentials managed via `.env` and secured with `python-dotenv` and `dotenv`  
+- Offline smoke tests in GitHub Actions to ensure core logic runs without API access  
+- Docker-ready and designed for cron scheduling  
+
+[View on GitHub](https://github.com/matboone/trade-bot)
+
+## Education
+
+**Augusta University** — Bachelor of Science, Computer Science  
+Minor in Business Administration  
+Relevant coursework: Data Structures · Software Engineering (Agile/TDD) · Databases · Algorithms
+
+## Contact
+
+- **Email:** matthewkboone05@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/matboone  
+- **GitHub:** https://github.com/matboone
+
+---
